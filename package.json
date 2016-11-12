@@ -1,0 +1,17 @@
+{
+  "name": "bone-act-bubel",
+  "version": "0.0.1",
+  "description": "> bubel for bone plugins",
+  "main": "index.js",
+  "author": {
+    "name": "wyicwx@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wyicwx/bone-act-bubel.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "buble": "*"
+  }
+}
